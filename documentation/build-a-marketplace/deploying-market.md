@@ -1,6 +1,6 @@
 ---
-title: Deployment of Ocean Market
-description: Step by step guide to a quick deployment of Ocean Market
+title: Deployment of GeneVault
+description: Step by step guide to a quick deployment of GeneVault
 ---
 
 # Build and host your Data Marketplace
